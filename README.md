@@ -1,9 +1,10 @@
-###    Andrey, 22 anos.✨
+###    Andrey. ✨
 
-- Cursando o 7° Período de Sistemas de Informação
-- Estou focando meus estudos na área de Desenvolvimento Web
-- Procurando por um estágio no momento
-- contato.andreyyy@gmail.com
+<body> 
+  - Cursando o 7° Período de Sistemas de Informação
+  - Estou focando meus estudos na área de Desenvolvimento Web Fullstack.
+  - contato.andreyyy@gmail.com
+</body>
 
 <div>
   <a href="https://github.com/andreycoutt">
