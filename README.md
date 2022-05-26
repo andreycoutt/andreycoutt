@@ -1,6 +1,8 @@
+<body>
+
 ###    Andrey. ✨
 
-<body> 
+ 
   <b> - Cursando o 7° Período de Sistemas de Informação</b><br> 
   <b> - Estou focando meus estudos na área de Desenvolvimento Web <u>Fullstack</u>.</b><br>
   <b> - contato.andreyyy@gmail.com</b><br><br>
