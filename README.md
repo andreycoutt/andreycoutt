@@ -1,6 +1,7 @@
 <body>
+
   <b> - Cursando o 7° Período de Sistemas de Informação</b><br> 
-  <b> - Estudos focados na área de Desenvolvimento Web <mark>Fullstack</mark>.</b><br>
+  <b> - Estudos focados na área de Desenvolvimento Web Fullstack.</b><br>
   <b> -</b> contato.andreyyy@gmail.com<br><br>
 </body>
 
