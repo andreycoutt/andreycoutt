@@ -1,7 +1,7 @@
 <body>
 
   <b> - Cursando Sistemas de Informação</b><br> 
-  <b> - Estudos focados na área de Desenvolvimento Web Fullstack.</b><br>
+  <b> - Estudos focados na área de Desenvolvimento Web Fullstack e Segurança da Informação</b><br>
   <b> -</b> contato.andreyyy@gmail.com<br><br>
 </body>
 
