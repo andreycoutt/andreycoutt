@@ -2,7 +2,7 @@
 
   <b> - Cursando Sistemas de Informação</b><br> 
   <b> - Estudos focados na área de Desenvolvimento Fullstack e Segurança da Informação</b><br>
-  <b> -</b> contato.andreyyy@gmail.com<br><br>
+  <b> -</b>📫 andreycoutt@gmail.com or contato.andreyyy@gmail.com<br><br>
 </body>
 
 <div>
