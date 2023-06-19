@@ -8,7 +8,7 @@ I had contact with C, HTML, CSS, JavaScript, Java, PHP, Python & SQL. I'm curren
   
 
 
- 📫 business and inquiries: andreycoutt@gmail.com or contato.andreyyy@gmail.com<br><br>
+ 📫 <strong>business and inquiries:</strong>  andreycoutt@gmail.com or contato.andreyyy@gmail.com<br><br>
 </body>
 
 <div>
