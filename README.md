@@ -1,7 +1,11 @@
 <body>
-
+  
+  <h2>Hello there</h2>
+  <hr>
+  <b> - My name is Andrey Couto, i currently live in Espirito Santo, Brazil.
   <b> - Cursando Sistemas de Informação</b><br> 
   <b> - Estudos focados na área de Desenvolvimento Fullstack e Segurança da Informação</b><br>
+
   <b> -</b> 📫 andreycoutt@gmail.com or contato.andreyyy@gmail.com<br><br>
 </body>
 
