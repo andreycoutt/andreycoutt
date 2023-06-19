@@ -1,7 +1,8 @@
 <body>
   
   <h2>Hello there</h2>
-  <b> - My name is Andrey Couto, i currently live in Espirito Santo, Brazil. I'm studying information systems at <a href="https://cachoeiro.ifes.edu.br/">IFES</a>
+  <b> - My name is Andrey Couto, i currently live in Espirito Santo, Brazil. I'm studying <a href="https://cachoeiro.ifes.edu.br/cursos/graduacao/sistemas-de-informacao">information systems</a> at <a href="https://cachoeiro.ifes.edu.br/" target="_blank">IFES</a>
+  
   <b> - Cursando Sistemas de Informação</b><br> 
   <b> - Estudos focados na área de Desenvolvimento Fullstack e Segurança da Informação</b><br>
 
