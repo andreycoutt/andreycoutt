@@ -6,6 +6,7 @@
 
 
   <p>I had contact with C, HTML, CSS, JavaScript, Java, PHP, Python & SQL. I'm currently dedicated to study PHP and info security.</p>
+
  📫 business and inquiries: andreycoutt@gmail.com or contato.andreyyy@gmail.com<br><br>
 </body>
 
