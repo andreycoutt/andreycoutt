@@ -1,10 +1,7 @@
 <body>
   
-
-
  📫 <strong>business and inquiries:</strong>  andreycoutt@gmail.com<br><br>
 </body>
-
 <div>
   <a href="https://github.com/andreycoutt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreycoutt&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
